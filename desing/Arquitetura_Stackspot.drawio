@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="o5Zr4Xy9Oi9ViZB-SziX" name="oci_provider_stackspot">
-        <mxGraphModel dx="1983" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2117" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -146,7 +146,7 @@
                 <mxCell id="44" value="&lt;font color=&quot;#ffffff&quot;&gt;AUDIT_1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;fontFamily=Verdana;" parent="1" vertex="1">
                     <mxGeometry x="658" y="501" width="80" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3c5btsWGo0mPK0tM8FJX-44" style="edgeStyle=none;html=1;fontFamily=Verdana;fontSize=13;fontColor=#da7a0b;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="eEjcCwT-WWLBCNDeV5EP-22">
+                <mxCell id="3c5btsWGo0mPK0tM8FJX-44" style="edgeStyle=none;html=1;fontFamily=Verdana;fontSize=13;fontColor=#da7a0b;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="eEjcCwT-WWLBCNDeV5EP-22" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="-70" y="80" as="targetPoint"/>
                         <Array as="points">
@@ -176,7 +176,7 @@
                 <mxCell id="3c5btsWGo0mPK0tM8FJX-51" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-cf12201a-7fff-9905-0576-1f05a2af6ea7&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/CO76nrKHnoK7_rwvdg65pQLFi3hU_MbncJSdASKYTuBERG4x-mvbt2Jk7sc94RO8_0JUU4FIPf7B27v-r8krJFpVTPbw-RfdMHdrcpCt8A5bSY0Ig-iR8RtdnzTmtglOovw2U5weonCFI8tS-kNZZZBgFA=s2048&quot; height=&quot;25px;&quot; width=&quot;25px;&quot;&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;fontColor=#da7a0b;" parent="1" vertex="1">
                     <mxGeometry x="-100" y="-170" width="60" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="r6Ds9A2htb6F8QyE_iXC-44" value="Governance roles acess&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="r6Ds9A2htb6F8QyE_iXC-44" value="Governance roles acess&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-40" y="195" width="70" height="30" as="geometry"/>
                 </mxCell>
             </root>
@@ -395,7 +395,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="fphv38I8F_ziP7QXcadi" name="aws_provider">
-        <mxGraphModel dx="2410" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2204" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
