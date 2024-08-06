@@ -198,7 +198,7 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="l3WOqJ70gNgubJD6RUu--44" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#CC6600;strokeColor=#C4C1BD;fontFamily=Verdana;fontSize=11;fontColor=#da7a0b;" parent="1" vertex="1">
-                    <mxGeometry x="-500" y="-200" width="280" height="100" as="geometry"/>
+                    <mxGeometry x="-500" y="-200" width="280" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="l3WOqJ70gNgubJD6RUu--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-369.5" y="123" width="1079.5" height="407" as="geometry"/>
@@ -257,7 +257,7 @@
                     <mxGeometry x="262.5" y="410" width="80" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="l3WOqJ70gNgubJD6RUu--42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-2907e48a-7fff-9a34-469a-3a3c9f60f298&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/pILAxP_Q25JATWh8FZdUC0NEAK7YiObfks5TOgXcwuJidRdwa_uNm9ER_8XBDOeT5w5grtwEJO8OdZDWz4YgChPJCJxEZGJ2wn-WS-2y51d9Q9acsHFTm_rYyxDPut_LkFdv8mA7B3Xly_O3NO0FYp3isA=s2048&quot; height=&quot;57px;&quot; width=&quot;198px;&quot;&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;fontColor=#da7a0b;" parent="1" vertex="1">
-                    <mxGeometry x="-498" y="-210" width="170" height="40" as="geometry"/>
+                    <mxGeometry x="-500" y="-200" width="180" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="l3WOqJ70gNgubJD6RUu--43" style="edgeStyle=none;html=1;entryX=0.304;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=13;fontColor=#da7a0b;" parent="1" source="l3WOqJ70gNgubJD6RUu--44" target="l3WOqJ70gNgubJD6RUu--42" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -343,17 +343,18 @@
                 <mxCell id="oi6C_2tyL37SUW8igXss-0"/>
                 <mxCell id="oi6C_2tyL37SUW8igXss-1" parent="oi6C_2tyL37SUW8igXss-0"/>
                 <mxCell id="oi6C_2tyL37SUW8igXss-29" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#CC6600;strokeColor=#C4C1BD;fontFamily=Verdana;fontSize=11;fontColor=#da7a0b;" vertex="1" parent="oi6C_2tyL37SUW8igXss-1">
-                    <mxGeometry x="-500" y="-230" width="280" height="130" as="geometry"/>
+                    <mxGeometry x="-480" y="-230" width="260" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="oi6C_2tyL37SUW8igXss-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oi6C_2tyL37SUW8igXss-1">
                     <mxGeometry x="-369.5" y="123" width="569.5" height="410" as="geometry"/>
                 </mxCell>
-                <mxCell id="oi6C_2tyL37SUW8igXss-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;entryX=0.727;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oi6C_2tyL37SUW8igXss-1" source="oi6C_2tyL37SUW8igXss-29" target="oi6C_2tyL37SUW8igXss-7">
+                <mxCell id="oi6C_2tyL37SUW8igXss-3" style="edgeStyle=none;html=1;fontFamily=Verdana;fontSize=14;entryX=0.727;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oi6C_2tyL37SUW8igXss-1" target="oi6C_2tyL37SUW8igXss-7">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="-120" y="-160"/>
                         </Array>
                         <mxPoint x="-42" y="120" as="targetPoint"/>
+                        <mxPoint x="-220" y="-160" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="oi6C_2tyL37SUW8igXss-7" value="ORACLE ORGANIZATION MANAGER - (Nome e Region)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oi6C_2tyL37SUW8igXss-1">
@@ -366,7 +367,7 @@
                     <mxGeometry x="-484.5" y="-220" width="184.5" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="oi6C_2tyL37SUW8igXss-30" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-b1157c10-7fff-f48c-381c-91cf66b51c12&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/XBUWJAQ4RxeMx2p4LE6fTXS12f-qG9EBVA1sFKwlMqX6tsMHcnFoDtItSj9BPpDtPOkl7EpylkazBpulrZOdvKVd2sQRGrZZ1k64L9DXKjPnaUaNF-5UA71He_x-I-WOPFn6Ctz_9JegVhs-X0TxgrKJjw=s2048&quot; height=&quot;41px;&quot; width=&quot;69px;&quot;&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;fontColor=#da7a0b;" vertex="1" parent="oi6C_2tyL37SUW8igXss-1">
-                    <mxGeometry x="-350" y="-160" width="140" height="80" as="geometry"/>
+                    <mxGeometry x="-310" y="-170" width="140" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="oi6C_2tyL37SUW8igXss-34" value="Governance roles acess&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oi6C_2tyL37SUW8igXss-1">
                     <mxGeometry x="-295" y="220" width="70" height="30" as="geometry"/>
